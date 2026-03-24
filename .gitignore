@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Supabase local temp/cache
+supabase/.temp/
+
+# Claude Code
+.claude/
+
+# Internal notes and presentations
+notes
+product-summit-preso/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if dependencies are added later)
+node_modules/
+.npm
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

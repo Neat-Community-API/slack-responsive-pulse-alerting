@@ -1,0 +1,4 @@
+project_id = "slack-alerting"
+
+[functions.neat-pulse-alerts]
+verify_jwt = false
